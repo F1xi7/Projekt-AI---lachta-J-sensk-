@@ -1,4 +1,7 @@
 # Projekt-AI-Slachta,Jasensky
+
+DriveSafe AI+
+
 1. Shrnutí nápadu
 
 DriveSafe AI+ je rozšířený systém umělé inteligence, který analyzuje fotografie alkoholických nápojů, aby určil typ nápoje a odhadl jeho objem. Na základě těchto informací a údajů o uživateli (váha, pohlaví, čas konzumace) vypočítá přibližný čas, kdy bude hladina alkoholu v krvi uživatele dostatečně nízká pro bezpečné řízení. Navíc systém uživatele upozorní, když se blíží odhadovanému času vystřízlivění, varuje ho během pití, pokud se blíží nebezpečné hladině alkoholu, a připomíná mu důležitost hydratace.
