@@ -13,6 +13,7 @@ Jaká je vaše osobní motivace?
 Motivací je přispět k zvýšení bezpečnosti na silnicích a snížení počtu nehod způsobených alkoholem. Dále motivací je podpora zodpovědného pití, které zahrnuje i hydrataci a kontrolu nad množstvím konzumovaného alkoholu.
 Proč je toto téma důležité nebo zajímavé?
 Téma je důležité z hlediska veřejného zdraví a bezpečnosti. Je zajímavé, protože kombinuje moderní technologie (AI, rozpoznávání obrazu) s praktickým využitím, které může mít pozitivní dopad na společnost a podporuje zodpovědné chování.
+
 3. Data a AI techniky
 
 Na jakých zdrojích dat je váš projekt závislý?
@@ -26,6 +27,7 @@ Regresní modely: Pro odhad hladiny alkoholu v krvi (BAC) na základě vstupníc
 Systém pravidel a prahových hodnot: Pro varování před nebezpečnou hladinou alkoholu a připomínání hydratace na základě odhadnuté hladiny alkoholu a času.
 Ukázka zdrojového kódu (není podmínkou):
 (Zde by mohl být příklad kódu pro načtení a zpracování obrázku pomocí knihovny jako OpenCV, příklad definice jednoduché CNN v Pythonu s knihovnou TensorFlow nebo PyTorch, nebo příklad kódu pro výpočet odhadu BAC a predikci času vystřízlivění. Vzhledem k rozsahu, to zde nebudu uvádět.)
+
 4. Použití
 
 V jakém kontextu bude váš systém využíván a kým?
@@ -36,6 +38,7 @@ Je důležité zohlednit pohledy všech zúčastněných stran.
 Uživatelé: Potřebují jednoduché a spolehlivé řešení, které jim poskytne užitečné informace a pomůže jim zodpovědně pít.
 Provozovatelé podniků: Mohou systém využít k podpoře zodpovědného pití a péči o zákazníky.
 Orgány činné v trestním řízení: Mohou mít obavy z toho, že systém bude zneužíván k ospravedlnění jízdy pod vlivem.
+
 5. Výzvy a omezení
 
 Co váš projekt neřeší?
@@ -46,6 +49,7 @@ Každé technologické řešení má své limity, je důležité si je uvědomit
 Přesnost odhadu objemu nápoje z fotografie může být omezená.
 Systém nemusí být schopen rozpoznat všechny typy nápojů nebo situace (např. špatné osvětlení, neúplná fotografie).
 Upozornění na hydrataci jsou obecná doporučení a nenahrazují individuální potřeby.
+
 6. Budoucnost projektu
 
 Jak by mohl váš projekt růst a dále se rozvíjet?
